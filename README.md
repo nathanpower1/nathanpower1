@@ -4,7 +4,6 @@ My name is Nathan Power
 
 Experimental Physicist / Aspiring Computer Scientist
 ----------------------------------------------------
-![](https://komarev.com/ghpvc/?username=nathanpower1)
 
 I'm an experimental physicist turned aspiring computer scientist, currently pursuing a Master's degree in Computer Science. My journey began in the realm of physics, where I explored the intricacies of the physical world through experimentation and analysis. Now, I'm diving into the world of code, eager to apply my analytical skills and passion for problem-solving to the realm of software development and data analysis.
 
@@ -21,3 +20,6 @@ I'm an experimental physicist turned aspiring computer scientist, currently purs
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/nathanpower1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nathan-power-6541431b4/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+
+![](https://komarev.com/ghpvc/?username=nathanpower1)

@@ -44,7 +44,6 @@ Led the development of a cost-effective miniature spectrometer tailored for atom
 ![3D print](https://github.com/nathanpower1/nathanpower1/assets/90730341/c6c71cda-8944-491c-8ee8-5de6424483c5)
 ![mercury new spec 3](https://github.com/nathanpower1/nathanpower1/assets/90730341/c98236c3-6f9f-4e29-87eb-c5f12321151c)
 ![neon new spec 3](https://github.com/nathanpower1/nathanpower1/assets/90730341/bb33feb8-072f-47e7-ab3c-0ade1a167030)
-![Screenshot 2023-04-15 175805](https://github.com/nathanpower1/nathanpower1/assets/90730341/72776b44-b128-4592-8a01-5bd97b0378ac)
 
 
 
@@ -54,6 +53,5 @@ Led the development of a cost-effective miniature spectrometer tailored for atom
 A curated collection of experiment reports, research papers, and data analysis resources covering a wide range of topics in experimental physics. From Compton scattering to surface tension, each report provides detailed insights and findings from various experiments, contributing to the collective knowledge and advancement of the field. With research papers, data analysis notebooks, and presentation materials also available.
 
 ![perc_image_4](https://github.com/nathanpower1/nathanpower1/assets/90730341/38d82a33-3d31-425e-ad7a-3d5f00180c5a)
-![Screenshot 2024-04-30 224341](https://github.com/nathanpower1/nathanpower1/assets/90730341/9c3935ab-3452-4e55-bcff-fdc57231ed0a)
 
 

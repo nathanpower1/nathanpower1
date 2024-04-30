@@ -36,5 +36,6 @@ https://github.com/nathanpower1/nathanpower1/assets/90730341/5170453d-c7af-4a2b-
 
 Led the development of a cost-effective miniature spectrometer tailored for atomic line emission spectroscopy. Utilized 3D printing and lab-available components to construct the device, achieving high performance at a fraction of the cost of commercial alternatives. Conducted rigorous testing and identified opportunities for future enhancements. Positioned the project as a potential game-changer in spectroscopy, with broad implications for scientific research and education.
 
-![3D print](https://github.com/nathanpower1/nathanpower1/assets/90730341/a27ed5ab-bdd6-4888-8487-593df9443a72)![image (14)](https://github.com/nathanpower1/nathanpower1/assets/90730341/82b0e2aa-b8ec-48aa-99c5-46e58fab3b1c)
 
+
+![3D print](https://github.com/nathanpower1/nathanpower1/assets/90730341/a4a14134-7f17-4dfc-a710-453253c4d11c)

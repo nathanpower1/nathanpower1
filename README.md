@@ -39,6 +39,7 @@ Led the development of a cost-effective miniature spectrometer tailored for atom
 ![3D print](https://github.com/nathanpower1/nathanpower1/assets/90730341/c6c71cda-8944-491c-8ee8-5de6424483c5)
 ![mercury new spec 3](https://github.com/nathanpower1/nathanpower1/assets/90730341/c98236c3-6f9f-4e29-87eb-c5f12321151c)
 ![neon new spec 3](https://github.com/nathanpower1/nathanpower1/assets/90730341/bb33feb8-072f-47e7-ab3c-0ade1a167030)
+![Screenshot 2023-04-15 175805](https://github.com/nathanpower1/nathanpower1/assets/90730341/72776b44-b128-4592-8a01-5bd97b0378ac)
 
 
 ### Experimental Physics Lab Reports:

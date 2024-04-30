@@ -29,7 +29,12 @@ I'm an experimental physicist turned aspiring computer scientist, currently purs
 CarbonAdventure is an exhilarating 2D platformer game focused on the importance of minimizing your carbon footprint while traveling. Embark on a thrilling adventure through colorful landscapes, challenging obstacles, and interactive elements while learning about sustainability and environmental awareness.
 
 
+
+
 https://github.com/nathanpower1/nathanpower1/assets/90730341/5170453d-c7af-4a2b-ab91-441a245b902d
+
+
+
 
 
 #### Development of a Handheld 3D Printed Visible Mini Spectrometer
@@ -40,6 +45,8 @@ Led the development of a cost-effective miniature spectrometer tailored for atom
 ![mercury new spec 3](https://github.com/nathanpower1/nathanpower1/assets/90730341/c98236c3-6f9f-4e29-87eb-c5f12321151c)
 ![neon new spec 3](https://github.com/nathanpower1/nathanpower1/assets/90730341/bb33feb8-072f-47e7-ab3c-0ade1a167030)
 ![Screenshot 2023-04-15 175805](https://github.com/nathanpower1/nathanpower1/assets/90730341/72776b44-b128-4592-8a01-5bd97b0378ac)
+
+
 
 
 ### Experimental Physics Lab Reports:

@@ -41,5 +41,11 @@ Led the development of a cost-effective miniature spectrometer tailored for atom
 ![neon new spec 3](https://github.com/nathanpower1/nathanpower1/assets/90730341/bb33feb8-072f-47e7-ab3c-0ade1a167030)
 
 
+### Experimental Physics Lab Reports:
+
+A curated collection of experiment reports, research papers, and data analysis resources covering a wide range of topics in experimental physics. From Compton scattering to surface tension, each report provides detailed insights and findings from various experiments, contributing to the collective knowledge and advancement of the field. With research papers, data analysis notebooks, and presentation materials also available.
+
+![perc_image_4](https://github.com/nathanpower1/nathanpower1/assets/90730341/38d82a33-3d31-425e-ad7a-3d5f00180c5a)
+![Screenshot 2024-04-30 224341](https://github.com/nathanpower1/nathanpower1/assets/90730341/9c3935ab-3452-4e55-bcff-fdc57231ed0a)
 
 

@@ -22,3 +22,19 @@ I'm an experimental physicist turned aspiring computer scientist, currently purs
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/nathanpower1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nathan-power-6541431b4/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Project Summaries 
+
+#### CarbonAdventure
+CarbonAdventure is an exhilarating 2D platformer game focused on the importance of minimizing your carbon footprint while traveling. Embark on a thrilling adventure through colorful landscapes, challenging obstacles, and interactive elements while learning about sustainability and environmental awareness.
+
+
+https://github.com/nathanpower1/nathanpower1/assets/90730341/5170453d-c7af-4a2b-ab91-441a245b902d
+
+
+#### Development of a Handheld 3D Printed Visible Mini Spectrometer
+
+Led the development of a cost-effective miniature spectrometer tailored for atomic line emission spectroscopy. Utilized 3D printing and lab-available components to construct the device, achieving high performance at a fraction of the cost of commercial alternatives. Conducted rigorous testing and identified opportunities for future enhancements. Positioned the project as a potential game-changer in spectroscopy, with broad implications for scientific research and education.
+
+![3D print](https://github.com/nathanpower1/nathanpower1/assets/90730341/a27ed5ab-bdd6-4888-8487-593df9443a72)![image (14)](https://github.com/nathanpower1/nathanpower1/assets/90730341/82b0e2aa-b8ec-48aa-99c5-46e58fab3b1c)
+

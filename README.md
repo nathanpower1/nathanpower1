@@ -26,7 +26,7 @@ I'm an experimental physicist turned aspiring computer scientist, currently purs
 ## Project Summaries 
 
 ### CarbonAdventure
-CarbonAdventure is an exhilarating 2D platformer game focused on the importance of minimizing your carbon footprint while traveling. Embark on a thrilling adventure through colorful landscapes, challenging obstacles, and interactive elements while learning about sustainability and environmental awareness. (Video is sped up for Demo purposes. Id reccommend muting!)
+CarbonAdventure is an exhilarating 2D platformer game focused on the importance of minimizing your carbon footprint while traveling. Embark on a thrilling adventure through colorful landscapes, challenging obstacles, and interactive elements while learning about sustainability and environmental awareness. (Video is sped up for demo purposes. I would strongly reccommend muting!)
 
 
 

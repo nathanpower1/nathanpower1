@@ -38,4 +38,5 @@ Led the development of a cost-effective miniature spectrometer tailored for atom
 
 
 
-![3D print](https://github.com/nathanpower1/nathanpower1/assets/90730341/d109e578-0296-4d77-b73f-f7c3e4d688c4)
+![3D print](https://github.com/nathanpower1/nathanpower1/assets/90730341/d109e578-0296-4d77-b73f-f7c3e4d688c4)![mercury new spec 3](https://github.com/nathanpower1/nathanpower1/assets/90730341/f224f48a-c5b5-4b6f-beac-297a5f7a1954)
+

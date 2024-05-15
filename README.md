@@ -34,6 +34,16 @@ CarbonAdventure is an exhilarating 2D platformer game focused on the importance 
 https://github.com/nathanpower1/nathanpower1/assets/90730341/5170453d-c7af-4a2b-ab91-441a245b902d
 
 
+### UCDBikes Bike Rental Service App
+
+This version of BoldlyNavigatingNature (UCDBikes) is a web application to display occupance and weather information for Dublin Bikes stations across Dublin City.
+The project scrapped data from JCDecauxAPI and OpenWeather API to get data bikes data for 3 months.
+The Scrapper ran in an AWS EC2 instance and stored data in an AWS RDS (MySQL)
+An ML model was developed with data and deployed on a Flask instance.
+
+
+
+https://github.com/nathanpower1/nathanpower1/assets/90730341/136c68a3-d17a-4180-a008-b2f93663e0ec
 
 
 

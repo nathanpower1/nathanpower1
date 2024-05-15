@@ -36,10 +36,10 @@ https://github.com/nathanpower1/nathanpower1/assets/90730341/5170453d-c7af-4a2b-
 
 ### UCDBikes Bike Rental Service App
 
-This version of BoldlyNavigatingNature (UCDBikes) is a web application to display occupance and weather information for Dublin Bikes stations across Dublin City.
-The project scrapped data from JCDecauxAPI and OpenWeather API to get data bikes data for 3 months.
-The Scrapper ran in an AWS EC2 instance and stored data in an AWS RDS (MySQL)
-An ML model was developed with data and deployed on a Flask instance.
+* This version of BoldlyNavigatingNature (UCDBikes) is a web application to display occupance and weather information for Dublin Bikes stations across Dublin City.
+* The project scraped data from JCDecauxAPI and OpenWeather API to get data bikes data for 3 months.
+* The Scraper ran in an AWS EC2 instance and stored data in an AWS RDS (MySQL)
+* An ML model was developed with data and deployed on a Flask instance.
 
 
 

@@ -49,7 +49,8 @@ https://github.com/nathanpower1/nathanpower1/assets/90730341/136c68a3-d17a-4180-
 
 ### Development of a Handheld 3D Printed Visible Mini Spectrometer
 
-Led the development of a cost-effective miniature spectrometer tailored for atomic line emission spectroscopy. Utilized 3D printing and lab-available components to construct the device, achieving high performance at a fraction of the cost of commercial alternatives. Conducted rigorous testing and identified opportunities for future enhancements. Positioned the project as a potential game-changer in spectroscopy, with broad implications for scientific research and education.
+* Led the development of a cost-effective miniature spectrometer tailored for atomic line emission spectroscopy. Utilized 3D printing and lab-available components to construct the device, achieving high performance at a fraction of the cost of commercial alternatives. 
+* Conducted rigorous testing and identified opportunities for future enhancements. Positioned the project as a potential game-changer in spectroscopy, with broad implications for scientific research and education.
 
 ![3D print](https://github.com/nathanpower1/nathanpower1/assets/90730341/c6c71cda-8944-491c-8ee8-5de6424483c5)
 ![mercury new spec 3](https://github.com/nathanpower1/nathanpower1/assets/90730341/c98236c3-6f9f-4e29-87eb-c5f12321151c)
@@ -60,7 +61,8 @@ Led the development of a cost-effective miniature spectrometer tailored for atom
 
 ### Experimental Physics Lab Reports:
 
-A curated collection of experiment reports, research papers, and data analysis resources covering a wide range of topics in experimental physics. From Compton scattering to surface tension, each report provides detailed insights and findings from various experiments, contributing to the collective knowledge and advancement of the field. With research papers, data analysis notebooks, and presentation materials also available.
+* A curated collection of experiment reports, research papers, and data analysis resources covering a wide range of topics in experimental physics. From Compton scattering to surface tension, each report provides detailed insights and findings from various experiments, contributing to the collective knowledge and advancement of the field. 
+* With research papers, data analysis notebooks, and presentation materials also available.
 
 ![perc_image_4](https://github.com/nathanpower1/nathanpower1/assets/90730341/38d82a33-3d31-425e-ad7a-3d5f00180c5a)
 
